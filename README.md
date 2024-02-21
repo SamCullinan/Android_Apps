@@ -1,2 +1,2 @@
-# First_Android
-Head First Android Development
+# Android Apps
+Android Development
